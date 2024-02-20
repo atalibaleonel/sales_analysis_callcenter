@@ -1,4 +1,4 @@
-![PROJETO SALES_site_dark]https://yata-apix-8db5c979-b204-4782-9cb8-b1ca3d25181a.s3-object.locaweb.com.br/59e7ac2c33284e8f810db2d14954cb67.png)
+![PROJETO SALES_site_dark](https://yata-apix-8db5c979-b204-4782-9cb8-b1ca3d25181a.s3-object.locaweb.com.br/59e7ac2c33284e8f810db2d14954cb67.png)
 
 
 # Sales Analysis Dash
