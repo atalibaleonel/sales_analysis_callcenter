@@ -542,4 +542,8 @@ def graph11(month, team, toggle):
 
     return fig11, select
 
-
+@app.before_first_request
+def create_tables():
+    db.create_all()
+    with app.app_context():
+    db.create_all()
