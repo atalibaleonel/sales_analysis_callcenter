@@ -34,7 +34,7 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 ## 📜 Conteúdo
 Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação de Web Apps e Dashboards, acesse:
 
-<a href = "https://www.atalibaleonel.com.br"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
+<a href = "https://www.atalibaleonel.com.br"></a> 
 
 ### 🤝 Suporte/Contato
 
@@ -48,5 +48,5 @@ Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criaçã
 
 
 
-<p align="center">Copyright © 2024 Ataliba Leonely</p>
+<p align="center">Copyright © 2024 Ataliba Leonel</p>
 
